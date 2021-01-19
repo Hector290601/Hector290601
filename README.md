@@ -1,5 +1,10 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on a Autonomous Car 🚗 👁️
+- 🌱 I’m currently learning ROS
+- 💬 Ask me about C and Python uwu
+- 📫 How to reach me: robletes062901@gmail.com
+- 🎓 I'm currently studying on the Facultad de Ingeniería of the UNAM
+- ⚡ Fun fact: I'm bees alergic
 <!--
 **Hector290601/Hector290601** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
