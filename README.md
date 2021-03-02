@@ -2,9 +2,10 @@
 - 🔭 I’m currently working on a Autonomous Car 🚗 👁️
 - 🌱 I’m currently learning ROS
 - 💬 Ask me about C and Python uwu
-- 📫 How to reach me: robletes062901@gmail.com
-- 🎓 I'm currently studying on the Facultad de Ingeniería of the UNAM
-- ⚡ Fun fact: I'm bees alergic
+- 📫 How to reach me: hector.robles@ingenieria.unam.edu
+- 🎓 I'm currently studying on the Facultad de Ingeniería, UNAM
+- ⚡ Fun fact: I'm bees alergic :(
+- SMILE c:
 <!--
 **Hector290601/Hector290601** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
