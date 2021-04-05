@@ -1,11 +1,13 @@
 ### Hi there 👋
-- 🔭 I’m currently working on a Autonomous Car 🚗 👁️
+- 🔭 I’m currently working on a competition robot uwu 👁️
 - 🌱 I’m currently learning ROS
-- 💬 Ask me about C and Python uwu
+- 💬 Ask me about C/C++, Java and Python uwu
 - 📫 How to reach me: hector.robles@ingenieria.unam.edu
 - 🎓 I'm currently studying on the Facultad de Ingeniería, UNAM
-- ⚡ Fun fact: I'm bees alergic :(
+- ⚡ Fun fact: I'm some freak XD
+- 🌩 Sad fact: I'm bees alergic :(
 - SMILE c:
+- "No quiero verme condicionado por mi entorno. Quiero que mi entorno se vea condicionado por mi" Infiltrados@2006 🤯
 <!--
 **Hector290601/Hector290601** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
