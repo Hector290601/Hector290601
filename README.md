@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on a competition robot uwu 👁️
-- 🌱 I’m currently learning ROS
+- 🔭 I’m currently working on a competition robot and a attendance system.
+- 🌱 I’m currently learning ROS and GTKMM
 - 💬 Ask me about C/C++, Java and Python uwu
 - 📫 How to reach me: hector.robles@ingenieria.unam.edu
 - 🎓 I'm currently studying on the Facultad de Ingeniería, UNAM
