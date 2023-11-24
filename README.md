@@ -12,6 +12,8 @@ IIM: [![wakatime](https://wakatime.com/badge/user/d1ba7a4d-46ef-44e2-b690-b0f9a7
 - 🌩 Sad fact: I'm bees alergic :(
 - SMILE c:
 - "No quiero verme condicionado por mi entorno. Quiero que mi entorno se vea condicionado por mi" Infiltrados@2006 🤯
+
+ [![wakatime](https://wakatime.com/share/@Hector290601/ca5def98-03f3-4cd6-a106-94d1c8c934eb)](https://wakatime.com/share/@Hector290601/ca5def98-03f3-4cd6-a106-94d1c8c934eb.svg)
 <!--
 **Hector290601/Hector290601** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
