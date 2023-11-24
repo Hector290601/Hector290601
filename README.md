@@ -1,3 +1,7 @@
+[![wakatime](https://wakatime.com/badge/user/d1ba7a4d-46ef-44e2-b690-b0f9a744bcc7/project/018bf7bd-7efd-4fc0-897a-61dd82d4afb0.svg)](https://wakatime.com/badge/user/d1ba7a4d-46ef-44e2-b690-b0f9a744bcc7/project/018bf7bd-7efd-4fc0-897a-61dd82d4afb0)
+[![wakatime](https://wakatime.com/badge/user/d1ba7a4d-46ef-44e2-b690-b0f9a744bcc7/project/a3c94e8d-31ed-4410-941f-117db7cdcb11.svg)](https://wakatime.com/badge/user/d1ba7a4d-46ef-44e2-b690-b0f9a744bcc7/project/a3c94e8d-31ed-4410-941f-117db7cdcb11)<br/>
+[![wakatime](https://wakatime.com/badge/user/d1ba7a4d-46ef-44e2-b690-b0f9a744bcc7/project/bae59621-a6e1-440e-9ab0-9dab798d1278.svg)](https://wakatime.com/badge/user/d1ba7a4d-46ef-44e2-b690-b0f9a744bcc7/project/bae59621-a6e1-440e-9ab0-9dab798d1278)
+[![wakatime](https://wakatime.com/badge/user/d1ba7a4d-46ef-44e2-b690-b0f9a744bcc7/project/6e9113d2-66ae-444f-b049-919ed4846fff.svg)](https://wakatime.com/badge/user/d1ba7a4d-46ef-44e2-b690-b0f9a744bcc7/project/6e9113d2-66ae-444f-b049-919ed4846fff)<br/>
 ### Hi there 👋
 - 🔭 I’m currently working on a competition robot and a attendance system.
 - 🌱 I’m currently learning ROS and GTKMM
